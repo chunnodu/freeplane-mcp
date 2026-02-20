@@ -2,6 +2,41 @@
 
 Control the **Freeplane application** in real-time through Claude! This MCP server uses a Groovy HTTP Bridge to give you full programmatic control over Freeplane's UI, styling, icons, connectors, and more.
 
+## 📖 What is Mind Mapping?
+
+**Mind mapping** is a visual thinking technique that helps organize information hierarchically around a central concept. Think of it as a visual brainstorming tool where ideas branch out like a tree:
+
+- **Central Idea** → Main topic in the center
+- **Branches** → Major themes radiating outward
+- **Sub-branches** → Supporting details and specifics
+- **Visual Elements** → Colors, icons, and connections to show relationships
+
+Mind maps are used for:
+- 📝 **Brainstorming** - Capturing and organizing ideas freely
+- 📊 **Project Planning** - Breaking down complex projects into tasks
+- 📚 **Note-taking** - Summarizing information visually
+- 🎯 **Problem Solving** - Exploring solutions and relationships
+- 🧠 **Knowledge Management** - Building personal knowledge bases
+
+## 🗺️ What is Freeplane?
+
+**[Freeplane](https://www.freeplane.org/)** is a free, open-source mind mapping application written in Java. It's one of the most powerful mind mapping tools available:
+
+**Key Features:**
+- 🌳 **Hierarchical Node Structure** - Unlimited depth and breadth
+- 🎨 **Rich Formatting** - Colors, fonts, styles, icons (100+ built-in)
+- 🔗 **Connectors & Links** - Visual arrows showing relationships
+- 📎 **Attributes & Notes** - Metadata and detailed notes per node
+- 🔧 **Scripting Support** - Groovy scripting for automation
+- 💾 **XML-based Format** - Human-readable `.mm` files
+- 🖥️ **Cross-platform** - Windows, macOS, Linux
+
+**Why Freeplane?**
+- Free and open-source (GPL license)
+- Active development since 2007 (fork of FreeMind)
+- Powerful scripting API for extensions
+- Large community and plugin ecosystem
+
 ## 🎯 What This Does
 
 Unlike the file-based MCP server, this **actually controls the running Freeplane application**:
