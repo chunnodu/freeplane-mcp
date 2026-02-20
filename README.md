@@ -7,10 +7,15 @@ Control the **Freeplane application** in real-time through Claude! This MCP serv
 Unlike the file-based MCP server, this **actually controls the running Freeplane application**:
 
 ✅ **Real-time Control** - Changes appear immediately in Freeplane
+
 ✅ **Visual Features** - Set colors, icons, styles, connectors
+
 ✅ **Navigation** - Select nodes, navigate the tree, center view
+
 ✅ **Full Styling** - Fonts, colors, backgrounds, node shapes
+
 ✅ **Icons & Connectors** - Add visual elements
+
 ✅ **Live Updates** - See changes as they happen in the Freeplane UI
 
 ## Architecture
